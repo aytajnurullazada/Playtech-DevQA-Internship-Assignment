@@ -1,0 +1,36 @@
+=== Playtech People - Test Results ===
+
+Task 1: Website opened successfully
+URL: https://www.playtechpeople.com
+
+Task 2: Teams
+Number of teams: 11
+1. Customer Support
+2. Data
+3. Finance
+4. Information Technology
+5. IT
+6. Legal & Compliance
+7. Marketing
+8. Product
+9. QA
+10. Safety & Security
+11. Security
+
+Task 3: Research areas
+1. Risk analysis using data derived from BetBuddy
+2. Investigating product related risks such as slot game volatility
+3. Product-based research on game features and player risk
+4. Sustainable game design
+
+Task 4: Estonia jobs
+Tartu: Senior Database Administrator
+Information Technology
+Estonia
+Apply
+Link: https://jobs.smartrecruiters.com/Playtech/744000110177476-senior-database-administrator
+Tallinn: GRC Security Expert
+Information Technology
+Estonia
+Apply
+Link: https://jobs.smartrecruiters.com/Playtech/744000110719082-grc-security-expert-
